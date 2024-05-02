@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Andyiscoolboi
+- 👋 Hi, I’m @HrobrineCoder
 - 👀 I’m interested in gaming
-- 🌱 I’m currently learning codecombat
-- 💞️ I’m looking to collaborate on people who people who code on codecombat
+- 🌱 I’m currently helping people code
+- 💞️ I’m looking to collaborate on people who people hwo are wanting learn to code their own games
 - 📫 How to reach me. On Gmail @ AndWaite@usd297.org
 
 <!---
